@@ -9,7 +9,7 @@ class GymTimetable
 		System.out.println("2 = Tuesday");
 		System.out.println("3 = Wednesday");
 		System.out.println("4 = Thursday");
-		System.out.println("5 = Thursday");
+		System.out.println("5 = Friday");
 		System.out.println("6 = Saturday");
 		System.out.println("7 = Sunday");
 		
