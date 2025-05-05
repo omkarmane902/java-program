@@ -15,6 +15,6 @@ class powerCalculation
 			product =  product * base ;
 			
 		}
-		System.out.println("the Power of "+number+ " ^ " +raise+ " is : " +product);
+		System.out.println("the Power of "+base+ " ^ " +raise+ " is : " +product);
 	}
 }
