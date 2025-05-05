@@ -5,14 +5,14 @@ class powerCalculation
 	{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the base");
-		int number = sc.nextInt(); 
+		int base = sc.nextInt(); 
 		System.out.println("enter the raise");
 		int raise = sc.nextInt();
 		
 		int product = 1;
 		for(int time = 0; time < raise; time++)
 		{
-			product = number * product ;
+			product =  product * base ;
 			
 		}
 		System.out.println("the Power of "+number+ " ^ " +raise+ " is : " +product);
