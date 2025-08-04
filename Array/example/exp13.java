@@ -1,3 +1,5 @@
+//marging 2 array in 3 rd array 
+
 package example;
 
 import java.util.Arrays;
@@ -28,3 +30,4 @@ public class exp13 {
 		System.out.println(Arrays.toString(arr3));
 	}
 }
+
