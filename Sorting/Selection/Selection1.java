@@ -11,7 +11,7 @@ public class Selection1 {
 		
 		int [] arr = {29,10,14,37,13};
 		
-		for (int i = 0; i < arr.length; i++) {
+		for (int i = 0; i < arr.length-1; i++) {
 			
 			
 			int smallest = i;
@@ -37,3 +37,4 @@ public class Selection1 {
 		System.out.println(Arrays.toString(arr));
 	}
 }
+
