@@ -32,6 +32,9 @@ public class Stack1 {
 	    
 	    System.out.println(animal.peek());
 
+		 System.out.println(animal.isEmpty());
+
 	}
 
 }
+
